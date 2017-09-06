@@ -3,15 +3,17 @@ body {
   font-family: Helvetica;
 }
 
-.header {
+.background {
   background-image: url("./images/the-flatiron-building.png");
   color: white;
+}
 
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 h1{
   font-size: 70px;
-  font-weight: bold;
 }
 
 ul {
@@ -21,12 +23,10 @@ ul {
 
 h2 {
   font-size: 32px;
-  font-weight: bold;
 }
 
 h3 {
   font-size: 23px;
-  font-weight: bold;
 }
 
 p {
