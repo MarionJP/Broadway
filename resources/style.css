@@ -32,3 +32,12 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.footer.gray {
+  background-color: dimgray;
+    text-align: justify;
+}
+
+.copy{
+  font-size: 11px;
+}
