@@ -33,11 +33,12 @@ p {
   font-size: 14px;
 }
 
-.footer.gray {
-  background-color: dimgray;
-    text-align: justify;
+.copy {
+  font-size: 11px;
 }
 
-.copy{
-  font-size: 11px;
+ul.footer {
+padding-left: 0px;
+background-color: dimgray;
+text-align: justify;
 }
